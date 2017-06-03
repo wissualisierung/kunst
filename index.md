@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Sprechkunst 
 
-You can use the [editor on GitHub](https://github.com/wissualisierung/sprechkunst/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Das gesprochene Wort begegnet uns in einer Vielzahl unterschiedlicher Kommunikationssituationen. Eine besonders interessante und aufgrund der vielfältigen Kontextfaktoren schwer zu beforschende Situation ist die künstlerische. 
+Sie begegnet uns nicht nur bei literarischen Rezitationen oder Lesungen, sondern auch auf der Bühne im Theater, im Hörbuch, im Film, im Poetry-Slam oder im Unterricht. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten OER die Verwendung des Chrome-Browsers, um eine verlangsamte Wiedergabe zuvermeiden. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wissualisierung/sprechkunst/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sprechkünstlerische Kommunikation (nach E.-M. Krech)
+Mit dieser Lerneinheit können Sie sich über den sprechkünstlerischen Kommunikationsprozess informieren. 
+[Start](https://wissualisierung.github.io/sprechkunst/story.html).
