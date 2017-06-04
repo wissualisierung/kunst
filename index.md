@@ -8,12 +8,14 @@ Auf dieser Projektseite finden Sie die bereits veröffentlichten OER zu diesem T
 Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten Web-OER die Verwendung des Chrome-Browsers, um eine verlangsamte Wiedergabe zu vermeiden. 
 
 ## Sprechkünstlerische Kommunikation (nach E.-M. Krech)
+![Schema des Modells]({{https://wissualisierung.github.io/sprechkunst}/krech/assets/sk-krech.png)
+
 Mit dieser Lerneinheit können Sie sich über den sprechkünstlerischen Kommunikationsprozess informieren. 
 
 [Start der Anwendung im Browser](https://wissualisierung.github.io/sprechkunst/krech/story.html)
 
-[Download der zip-Datei (exe)](https://wissualisierung.github.io/sprechkunst/krech/Sprechkuenstlerische%20Kommunikation%20-%20WIN.zip)
+[Download der zip-Datei (exe)](https://wissualisierung.github.io/sprechkunst/krech/download/Sprechkuenstlerische%20Kommunikation%20-%20WIN.zip)
 
-[Download der zip-Datei (scorm)]
+[Download der zip-Datei (scorm)](https://wissualisierung.github.io/sprechkunst/krech/download/Sprechkuenstlerische%20Kommunikation%20-%20SCORM.zip)
 
-[Download der zip-Datei (tin can)]
+[Download der zip-Datei (tin can)](https://wissualisierung.github.io/sprechkunst/krech/download/Sprechkuenstlerische%20Kommunikation%20-%20TINCAN.zip)
