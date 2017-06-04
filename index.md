@@ -8,7 +8,7 @@ Auf dieser Projektseite finden Sie die bereits veröffentlichten OER zu diesem T
 Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten Web-OER die Verwendung des Chrome-Browsers, um eine verlangsamte Wiedergabe zu vermeiden. 
 
 ## Sprechkünstlerische Kommunikation (nach E.-M. Krech)
-![Schema des Modells]({{https://wissualisierung.github.io/sprechkunst}/krech/assets/sk-krech.png)
+![Schema des Modells](https://wissualisierung.github.io/sprechkunst/krech/assets/sk-krech.png)
 
 Mit dieser Lerneinheit können Sie sich über den sprechkünstlerischen Kommunikationsprozess informieren. 
 
