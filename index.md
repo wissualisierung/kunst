@@ -7,4 +7,7 @@ Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten 
 
 ## Sprechkünstlerische Kommunikation (nach E.-M. Krech)
 Mit dieser Lerneinheit können Sie sich über den sprechkünstlerischen Kommunikationsprozess informieren. 
-[Start](https://wissualisierung.github.io/sprechkunst/krech/story.html).
+
+[Start der Anwendung im Browser](https://wissualisierung.github.io/sprechkunst/krech/story.html).
+
+[Download der zip-Datei](https://wissualisierung.github.io/sprechkunst/krech/Sprechkuenstlerische%20Kommunikation%20-%20WIN.zip)
