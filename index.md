@@ -21,4 +21,6 @@ Version: 0.0.1 (04.06.2017)
 
 [Download der zip-Datei (tin can)](https://wissualisierung.github.io/sprechkunst/krech/download/Sprechkuenstlerische%20Kommunikation%20-%20TINCAN.zip)
 
+[Download des begleitenden PDFs](https://wissualisierung.github.io/sprechkunst/krech/download/SK-Krech.pdf)
+
 [Download des Evaluationsbogens](https://wissualisierung.github.io/sprechkunst/krech/download/Feedback%20zu%20SK-Krech.pdf)
