@@ -11,7 +11,7 @@ Aufgrund der besseren HTML5-Unterstützung empfiehlt sich für die angeführten 
 ![Schema des Modells](https://wissualisierung.github.io/sprechkunst/krech/assets/sk-krech.png)
 
 Mit dieser Lerneinheit können Sie sich über den sprechkünstlerischen Kommunikationsprozess informieren. 
-Version: 0.0.1 (04.06.2017)
+Version: 0.0.2 (07.06.2017)
 
 [Start der Anwendung im Browser](https://wissualisierung.github.io/sprechkunst/krech/story.html)
 
