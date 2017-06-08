@@ -23,4 +23,6 @@ Version: 0.0.2 (07.06.2017)
 
 [Download des begleitenden PDFs](https://wissualisierung.github.io/sprechkunst/krech/download/SK-Krech.pdf)
 
+[Download der begleitenden Präsentation (PDF)](https://wissualisierung.github.io/sprechkunst/krech/download/SK-Krech-PPT-Folien.pdf)
+
 [Download des Evaluationsbogens](https://wissualisierung.github.io/sprechkunst/krech/download/Feedback%20zu%20SK-Krech.pdf)
