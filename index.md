@@ -33,6 +33,6 @@ Version: 0.0.2 (07.06.2017)
 Mit dieser Lerneinheit können Sie sich über das Gestische Prinzip nach Brecht informieren. 
 Version: 0.0.1 (14.06.2017)
 
-[Start der Anwendung im Browser](https://wissualisierung.github.io/sprechkunst/gestus/index.md)
+[Start der Anwendung im Browser](https://wissualisierung.github.io/sprechkunst/gestus/index)
 
 [Download des begleitenden PDFs](https://wissualisierung.github.io/sprechkunst/gestus/gestus.pdf)
