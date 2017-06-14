@@ -35,4 +35,6 @@ Version: 0.0.1 (14.06.2017)
 
 [Start der interaktiven Präsentation im Browser](https://wissualisierung.github.io/sprechkunst/gestus/index)
 
+[Download der zip-Datei (scorm)](https://wissualisierung.github.io/sprechkunst/gestus/Gestus_LMS.zip)
+
 [Download des begleitenden PDFs](https://wissualisierung.github.io/sprechkunst/gestus/gestus.pdf)
